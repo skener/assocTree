@@ -21,5 +21,3 @@ foreach ($records as $record) {
 }
 
 $tree->traverse();
-
-?>

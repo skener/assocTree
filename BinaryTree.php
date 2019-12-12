@@ -29,5 +29,3 @@ class BinaryTree{
     return new TreeNode($val);
   }
 }
-
-?>
